@@ -37,7 +37,7 @@ Además, valoro una organización que me brinde la posibilidad de crecimiento ta
 - **Título de Educación Secundaria**, IES Pla de les Moreres, Vilanova del Camí
 
 ## Enlaces Externos
-[Un cotxe poc conegut](https://ca.wikipedia.org/wiki/MG_ZR)
+[Un Cotxe Poc Conegut](https://ca.wikipedia.org/wiki/MG_ZR)
 
 ## Imagen
 ![MG ZR](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/MG_ZR_105_Le_Mans.jpg/450px-MG_ZR_105_Le_Mans.jpg)
@@ -46,7 +46,6 @@ Además, valoro una organización que me brinde la posibilidad de crecimiento ta
 Código en línea: `print('Hola Joan!')`
 
 ```python
-# Ejemplo en Python
 def saludo():
     print("Hola Joan!")
 
