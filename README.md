@@ -37,18 +37,18 @@ Además, valoro una organización que me brinde la posibilidad de crecimiento ta
 - **Título de Educación Secundaria**, IES Pla de les Moreres, Vilanova del Camí
 
 ## Enlaces Externos
-[GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Un cotxe poc conegut](https://ca.wikipedia.org/wiki/MG_ZR)
 
 ## Imagen
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![MG ZR](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/MG_ZR_105_Le_Mans.jpg/450px-MG_ZR_105_Le_Mans.jpg)
 
 ## Ejemplo de Código
-Código en línea: `print('Hola, Mundo!')`
+Código en línea: `print('Hola Joan!')`
 
 ```python
 # Ejemplo en Python
 def saludo():
-    print("Hola, Mundo!")
+    print("Hola Joan!")
 
 saludo()
 ```
@@ -60,7 +60,7 @@ saludo()
 | Trabajo en equipo | Alta     | 3               |
 
 ## Cita
-> "El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el valor para continuar."
+> "El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el valor para continuar - Nadie."
 
 ---
 
