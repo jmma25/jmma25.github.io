@@ -34,7 +34,7 @@ Además, valoro una organización que me brinde la posibilidad de crecimiento ta
 - Sistemas operativos [Windows, Linux, MacOS]
 
 ## Educación
-- **Título de Educación Secundaria**, IES Pla de les Moreres, Vilanova del Camí
+- **Título de Educación Secundaria**, _IES Pla de les Moreres, Vilanova del Camí_
 
 ## Enlaces Externos
 [Un Cotxe Poc Conegut](https://ca.wikipedia.org/wiki/MG_ZR)
